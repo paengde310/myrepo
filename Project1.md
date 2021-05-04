@@ -469,3 +469,5 @@ relationship between alcohol consumption and mortality rate because
 there was no significant improvement. Although women have slightly
 higher correlation coefficient compared to men, the value is not
 considerably high.
+
+Thank you!
